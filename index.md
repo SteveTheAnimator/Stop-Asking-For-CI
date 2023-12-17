@@ -1,4 +1,4 @@
-# STOP ASKING FOR CI!
+# STOP ASKING FOR COMPUTER INTERFACE!
 
 People keep asking for a working "Computer Interface" but the thing is, you don't need it.        
 Just because it "Looks good" does not mean you need it, if you want something cool and it works use [Computer++](https://github.com/KyleTheScientist/ComputerPlusPlus/)
